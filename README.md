@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 
 Program to print the process of proximitysensor in android mobile devices”.
-Developed by : M Gautham
-Registeration Number : 212221230027
+DEVELOPED BY : M Hari Krishna
+REG.NO   : 212221230059.
 
 ```
 ### Activity_main.xml :
