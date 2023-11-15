@@ -1,4 +1,4 @@
-# Ex.No:06 Develop a simple application for proximity sensor using Sensor Manager in android studio.
+# Ex.No:05 Develop a simple application for proximity sensor using Sensor Manager in android studio.
 
 
 ## AIM:
@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 
 Program to print the process of proximitysensor in android mobile devices”.
-DEVELOPED BY : M Hari Krishna
-REG.NO   : 212221230059.
+DEVELOPED BY : S Adithya Chowdary.
+REG.NO   : 212221230100.
 
 ```
 ### Activity_main.xml :
